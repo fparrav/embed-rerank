@@ -221,4 +221,5 @@ tools/test-results/
 
 # Test
 .env
-pyproject.toml
+pyproject.toml.chunkhound.json
+.chunkhound/
